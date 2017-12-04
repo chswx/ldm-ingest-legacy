@@ -85,7 +85,7 @@ foreach($products as $product)
     if(!is_null($product_parsed)) {
         //$product_data = $product_parsed->get_properties();
         if($product_parsed->can_relay() && $product_parsed->in_zone($active_zones)) {
-            mail('jared.smith@updraftnetworks.com', $product_parsed->get_name() . " for " . $product_parsed->get_location_string(), $product_parsed->get_product_text(),'From: jared.smith+alerts@updraftnetworks.com');
+            mail('jared@chswx.com', $product_parsed->get_name() . " for " . $product_parsed->get_location_string(), $product_parsed->get_product_text(),'From: alerts@chswx.com');
         }
         // Authenticate with Twitter
         if(class_exists('TwitterOAuth')) {
