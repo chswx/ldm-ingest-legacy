@@ -17,6 +17,11 @@ $time_start = microtime(true);
 // Bring in configuration.
 include('conf/chswx.conf.php');
 
+// Composer autoload.
+include('vendor/autoload.php');
+
+use Abraham\TwitterOAuth\TwitterOAuth;
+
 // Bring in the abstract class definition for NWSProduct.
 include('inc/NWSProduct.class.php');
 
@@ -37,7 +42,6 @@ $m = new Mustache;
 
 // Bring in the Twitter OAuth lib and local config.
 if(!defined('LOCAL_DEBUG')) {
-    include('lib/twitter/twitteroauth/twitteroauth/twitteroauth.php');
     include('oauth.config.php');
 }
 
@@ -88,7 +92,7 @@ foreach($products as $product)
             mail('jared@chswx.com', $product_parsed->get_name() . " for " . $product_parsed->get_location_string(), $product_parsed->get_product_text(),'From: alerts@chswx.com');
         }
         // Authenticate with Twitter
-        if(class_exists('TwitterOAuth')) {
+        if(class_exists('Abraham\TwitterOAuth\TwitterOAuth')) {
             $twitter = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET);
         }
         $tweets = $product_parsed->get_tweets();
@@ -99,10 +103,13 @@ foreach($products as $product)
                 log_message("Tweeting: " . $tweet_text);
                 if(isset($twitter)) {
                     $response = $twitter->post('statuses/update',array('status' => $tweet_text));
-                    log_message("Twitter responded with: " . $response);
+                    log_message("Twitter responded with: ");
+                    var_dump($response);
                     if(!$response) {
                         log_message("product-ingest.php: Tweet of length " . strlen($tweet_text) . " failed: " . $tweet_text);
                     }
+                } else {
+                    log_message("There is no Twitter library!");
                 }
             }
         }

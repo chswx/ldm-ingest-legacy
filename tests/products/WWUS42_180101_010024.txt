@@ -1,0 +1,151 @@
+
+048 
+WWUS42 KCHS 010024
+WSWCHS
+
+URGENT - WINTER WEATHER MESSAGE
+National Weather Service Charleston SC
+724 PM EST Sun Dec 31 2017
+
+SCZ050-052-010830-
+/O.EXA.KCHS.WW.Y.0002.180101T0600Z-180101T1400Z/
+/O.CON.KCHS.WC.Y.0001.180101T0800Z-180101T1400Z/
+Charleston-Tidal Berkeley-
+Including the cities of Charleston, North Charleston, 
+Mount Pleasant, and Daniel Island
+724 PM EST Sun Dec 31 2017
+
+...WINTER WEATHER ADVISORY IN EFFECT FROM 1 AM TO 9 AM EST
+MONDAY...
+...WIND CHILL ADVISORY REMAINS IN EFFECT FROM 3 AM TO 9 AM EST
+MONDAY...
+
+* WHAT...Light freezing rain and freezing drizzle expected. Total
+  accumulations of a trace to a few hundredths of an inch are 
+  expected. Also, very cold wind chills will occur. Expect wind 
+  chill values of 10 to 15 degrees above zero.
+
+* WHERE...Charleston and Tidal Berkeley counties.
+
+* WHEN...From 1 AM to 9 AM EST Monday for the Winter Weather
+  Advisory and 3 AM to 9 AM EST Monday for the Wind Chill
+  Advisory.
+
+* ADDITIONAL DETAILS...Most ice accumulations will occur on
+  elevated surfaces such as bridges, overpasses, trees and power
+  lines. Temperatures will drop into the mid to upper 20s. Winds 
+  will be northeast 10 to 15 mph with gusts to 25 mph.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+A Winter Weather Advisory means that periods of freezing rain
+will cause travel difficulties. Be prepared for slippery roads.
+Slow down and use caution while driving. The latest road
+conditions for the state you are calling from can be obtained by
+calling 5 1 1.
+
+A Wind Chill Advisory means that cold air and the wind will
+combine to create low wind chills. Frost bite and hypothermia can
+occur if precautions are not taken. Make sure you wear a hat and
+gloves.
+
+$$
+
+SCZ049-010830-
+/O.EXA.KCHS.WW.Y.0002.180101T0600Z-180101T1400Z/
+Coastal Colleton-
+Including the city of Edisto Beach
+724 PM EST Sun Dec 31 2017
+
+...WINTER WEATHER ADVISORY IN EFFECT FROM 1 AM TO 9 AM EST
+MONDAY...
+
+* WHAT...Light freezing rain and freezing drizzle expected. Total
+  accumulations of a trace to a few hundredths of an inch are 
+  expected.
+
+* WHERE...Coastal Colleton county.
+
+* WHEN...From 1 AM to 9 AM EST Monday.
+
+* ADDITIONAL DETAILS...Most ice accumulations will occur on 
+  elevated surfaces such as bridges, overpasses, trees and power 
+  lines.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+A Winter Weather Advisory means that periods of freezing rain
+will cause travel difficulties. Be prepared for slippery roads.
+Slow down and use caution while driving. The latest road
+conditions for the state you are calling from can be obtained by
+calling 5 1 1.
+
+$$
+
+GAZ101-116>119-SCZ047-048-051-010830-
+/O.CON.KCHS.WW.Y.0002.180101T0600Z-180101T1400Z/
+Effingham-Inland Bryan-Coastal Bryan-Inland Chatham-
+Coastal Chatham-Inland Jasper-Beaufort-Coastal Jasper-
+Including the cities of Rincon, Springfield, Pembroke, 
+Richmond Hill, Garden City, Pooler, Savannah, Wilmington Island, 
+Tybee Island, Ridgeland, Beaufort, and Hilton Head Island
+724 PM EST Sun Dec 31 2017
+
+...WINTER WEATHER ADVISORY REMAINS IN EFFECT FROM 1 AM TO 9 AM
+EST MONDAY...
+
+* WHAT...Light freezing rain and freezing drizzle expected. Total
+  accumulations of a trace to a few hundredths of an inch are 
+  expected.
+
+* WHERE...In South Carolina, Inland Jasper, Beaufort and Coastal 
+  Jasper counties. In Georgia, Effingham, Inland Bryan, Coastal 
+  Bryan, Inland Chatham and Coastal Chatham counties. This 
+  includes the Savannah Metro Area.
+
+* WHEN...From 1 AM to 9 AM EST Monday.
+
+* ADDITIONAL DETAILS...Most ice accumulations will occur on 
+  elevated surfaces such as bridges, overpasses, trees and power 
+  lines.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+A Winter Weather Advisory means that periods of freezing rain
+will cause travel difficulties. Be prepared for slippery roads.
+Slow down and use caution while driving. The latest road
+conditions for the state you are calling from can be obtained by
+calling 5 1 1.
+
+$$
+
+SCZ045-010830-
+/O.CON.KCHS.WC.Y.0001.180101T0800Z-180101T1400Z/
+Inland Berkeley-
+Including the cities of Goose Creek and Moncks Corner
+724 PM EST Sun Dec 31 2017
+
+...WIND CHILL ADVISORY REMAINS IN EFFECT FROM 3 AM TO 9 AM EST
+MONDAY...
+
+* WHAT...Very cold wind chills expected. Expect wind chills of 
+  10 above zero.
+
+* WHERE...Inland Berkeley County.
+
+* WHEN...From 3 AM to 9 AM EST Monday.
+
+* ADDITIONAL DETAILS...Temperatures will drop into the lower to 
+  mid 20s. Winds will be northeast 10 to 15 mph with gusts to 20 
+  mph.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+A Wind Chill Advisory means that cold air and the wind will
+combine to create low wind chills. Frost bite and hypothermia can
+occur if precautions are not taken. Make sure you wear a hat and
+gloves.
+
+$$
+
+

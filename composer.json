@@ -1,0 +1,13 @@
+{
+    "name": "chswx/ldm-ingest-legacy",
+    "type": "project",
+    "require": {
+        "abraham/twitteroauth": "^0.7.4"
+    },
+    "authors": [
+        {
+            "name": "Jared Smith",
+            "email": "jared@chswx.com"
+        }
+    ]
+}
